@@ -21,38 +21,60 @@ Laravel là một khung ứng dụng web với cú pháp dễ hiểu, thanh lị
 1. Trang admin
 
 . Chức năng đăng nhập, đăng xuất
+
 . Chức năng quản lý danh mục sản phẩm
+
 . Chức năng quản lý sản phẩm
+
 . Chức năng quản lý đơn hàng
+
 . Chức năng quản lý phí vận chuyển
+
 . Chức năng quản lý bài viết
+
 . Chức năng quản lý bình luận
 
 Username: admin@gmail.com
+
 Pass: admin
 
 2. Trang khách hàng
 . Đăng ký, đăng nhập tài khoản
+
 . Thêm sản phẩm vào giỏ hàng
+
 . Tìm kiếm sản phẩm
+
 . Xem tin tức
+
 . Xem chi tiết sản phẩm
+
 . Xem giỏ hàng
+
 . Cập nhật giỏ hàng
+
 . Kiểm tra và thanh toán 
 
 Username: user5@gmail.com
+
 Pass: 123456
 
 ## Hướng dẫn chạy chương trình
 1. Cài đặt Comporser.exe https://www.youtube.com/watch?v=x_vXRgViaxw
 2. Yêu cầu khi cài đặt Laravel
+
     . PHP >= 5.6.4
+    
     . OpenSSL PHP Extension
+    
     . PDO PHP Extension
+    
     . Mbstring PHP Extension
+    
     . Tokenizer PHP Extension
+    
     . XML PHP Extension
+   
 
 ## Giấy phép
 
